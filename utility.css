@@ -1,0 +1,66 @@
+.flex{
+    display: flex;
+ }
+ 
+ .justify-center{
+     justify-content: center;
+ }
+ 
+ .item-center
+ {
+     align-items: center;
+ }
+ 
+ .border{
+     border: 2px solid red;
+     margin: 3px;
+ }
+
+ .bg-grey{
+    background-color:#121212;
+    color: white;
+ }
+
+ .bg-black{
+    background-color:black;
+    color: white;
+ }
+
+ .invert{
+    filter: invert(1);
+ }
+
+ .rounded{
+    border-radius: 9px;
+ }
+
+ .m-1{
+    margin: 5px;
+ }
+
+ .color1{
+    color: #a7a7a7;
+ }
+
+ .padd1{
+    padding: 10px;
+ }
+
+
+ .svga{
+    background-color: black;
+    border-radius: 12px;
+    height: 27px;
+    padding: 2px;
+ }
+
+ .m2{
+    margin-left: 147px;
+ }
+
+
+ .pointer{
+   cursor: pointer;
+ }
+
+ 
